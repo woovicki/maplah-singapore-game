@@ -1,0 +1,61 @@
+{
+  "source": "https://maptap.gg/",
+  "retrieved": "2026-10-27",
+  "product": {
+    "name": "MapTap",
+    "type": "daily geography game",
+    "freeInBrowser": true,
+    "players": 1
+  },
+  "daily": {
+    "rounds": 5,
+    "task": "find world locations on a 3D globe",
+    "historicalStories": true,
+    "educationalTrivia": true
+  },
+  "interaction": {
+    "globe": "3D globe rendered with Three.js and TileGlobe",
+    "placement": "tap/click location",
+    "controls": [
+      "orbit",
+      "zoom",
+      "keyboard globe",
+      "hold to place"
+    ]
+  },
+  "modes": [
+    "daily",
+    "versus",
+    "practice",
+    "profile"
+  ],
+  "progression": [
+    "score",
+    "XP",
+    "levels",
+    "continent progress",
+    "achievements",
+    "game history",
+    "streak/rewards"
+  ],
+  "account": [
+    "logged-in profile",
+    "Firebase-backed services",
+    "preferences backup"
+  ],
+  "delivery": {
+    "staticHTML": true,
+    "serviceWorkerOrPWA": true,
+    "publicAssetPaths": [
+      "js/",
+      "data/",
+      "css/",
+      "assets/"
+    ],
+    "tileHost": "https://tiles.maptap.gg"
+  },
+  "mobile": {
+    "iosAppStoreId": "6755205355",
+    "androidPackage": "gg.maptap.app"
+  }
+}

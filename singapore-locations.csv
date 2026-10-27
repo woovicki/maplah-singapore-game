@@ -1,0 +1,5 @@
+id,name,lat,lng,continent,type,difficulty,difficultyLevel
+"marina_bay_sands","Marina Bay Sands, Singapore","1.2834","103.8607","Asia","monument","hard","4"
+"national_university_of_singapore","National University of Singapore, Singapore","1.2966","103.7764","Asia","monument","medium","3"
+"orchard_road","Orchard Road, Singapore","1.3048","103.8318","Asia","monument","hard","4"
+"singapore_singapore","Singapore","1.3521","103.8198","Asia","capital","hard","4"

@@ -1,0 +1,22 @@
+{
+  "source": "https://maptap.gg/",
+  "mapScope": "Singapore only",
+  "coverage": {
+    "mainIsland": true,
+    "peripheralIslands": true,
+    "singaporeWaters": true
+  },
+  "publicEndpoints": [
+    "https://maptap.gg/data/master_locations.js",
+    "https://tiles.maptap.gg/",
+    "https://maptap.gg/js/tileglobe.bundle.js?v=138",
+    "https://maptap.gg/js/tileglobe-setup.js?v=23",
+    "https://maptap.gg/data/center_of.js?v=2"
+  ],
+  "excluded": [
+    "non-Singapore location records",
+    "daily hints and dates",
+    "third-party imagery copied into the repository",
+    "legal maritime-boundary claims"
+  ]
+}

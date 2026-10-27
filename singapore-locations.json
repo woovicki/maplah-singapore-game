@@ -1,0 +1,46 @@
+{
+  "source": "https://maptap.gg/data/master_locations.js",
+  "filter": "place name explicitly identifies Singapore",
+  "locations": [
+    {
+      "id": "marina_bay_sands",
+      "name": "Marina Bay Sands, Singapore",
+      "lat": 1.2834,
+      "lng": 103.8607,
+      "continent": "Asia",
+      "type": "monument",
+      "difficulty": "hard",
+      "difficultyLevel": 4
+    },
+    {
+      "id": "national_university_of_singapore",
+      "name": "National University of Singapore, Singapore",
+      "lat": 1.2966,
+      "lng": 103.7764,
+      "continent": "Asia",
+      "type": "monument",
+      "difficulty": "medium",
+      "difficultyLevel": 3
+    },
+    {
+      "id": "orchard_road",
+      "name": "Orchard Road, Singapore",
+      "lat": 1.3048,
+      "lng": 103.8318,
+      "continent": "Asia",
+      "type": "monument",
+      "difficulty": "hard",
+      "difficultyLevel": 4
+    },
+    {
+      "id": "singapore_singapore",
+      "name": "Singapore",
+      "lat": 1.3521,
+      "lng": 103.8198,
+      "continent": "Asia",
+      "type": "capital",
+      "difficulty": "hard",
+      "difficultyLevel": 4
+    }
+  ]
+}
